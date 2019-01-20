@@ -1,11 +1,11 @@
 ### To Use Chromium browser Sync Service.
 
-step one.
+#### step one.
 ```
 mv /Applications/Chromium.app/Contents/MacOS/Chromium /Applications/Chromium.app/Contents/MacOS/Chromium_bin
 ```
 
-step two.
+#### step two.
 ```
 cat <<EOF>> /Applications/Chromium.app/Contents/MacOS/Chromium
 #!/bin/bash
@@ -19,7 +19,7 @@ export GOOGLE_DEFAULT_CLIENT_SECRET="zzz"
 /Applications/Chromium.app/Contents/MacOS/Chromium_bin
 EOF
 ```
-step three.
+#### step three.
 ```
 chmod +x /Applications/Chromium.app/Contents/MacOS/Chromium
 ```
