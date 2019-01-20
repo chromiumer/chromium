@@ -24,8 +24,9 @@ EOF
 chmod +x /Applications/Chromium.app/Contents/MacOS/Chromium
 ```
 
+:clap:
+:point_down:
 
->:christmas_tree:
 ```
 https://console.developers.google.com 
 To Get GOOGLE_API_KEY && GOOGLE_DEFAULT_CLIENT_ID && GOOGLE_DEFAULT_CLIENT_SECRET
