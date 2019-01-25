@@ -27,9 +27,7 @@ chmod +x /Applications/Chromium.app/Contents/MacOS/Chromium
 :clap:
 :point_down:
 
-```
-A.To Get GOOGLE_API_KEY && GOOGLE_DEFAULT_CLIENT_ID && GOOGLE_DEFAULT_CLIENT_SECRET
-https://console.developers.google.com 
+A.https://console.developers.google.com 
+To Get GOOGLE_API_KEY && GOOGLE_DEFAULT_CLIENT_ID && GOOGLE_DEFAULT_CLIENT_SECRET
 
-B.[999](https://chromium.woolyss.com/)
-```
+B.https://chromium.woolyss.com
