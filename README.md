@@ -16,7 +16,7 @@ export GOOGLE_DEFAULT_CLIENT_ID="yyy"
 export GOOGLE_DEFAULT_CLIENT_SECRET="zzz"
 
 # Launch Chromium
-/Applications/Chromium.app/Contents/MacOS/Chromium_bin
+/Applications/Chromium.app/Contents/MacOS/Chromium_bin --force-dark-mode
 EOF
 ```
 #### :point_right: :three:
